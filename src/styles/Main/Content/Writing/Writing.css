@@ -1,0 +1,14 @@
+.email-writing {
+    display: grid;
+    grid-template-columns: 80px 1fr;
+
+    margin: 2rem 2rem 2rem 1rem;
+}
+
+.email-writing .avatar {
+    width: 56px;
+    height: 56px;
+
+    border-radius: 100%;
+    background-color: #eee;
+}
